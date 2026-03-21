@@ -28,3 +28,6 @@ After grinding for coins, the player would choose to either build things, fight 
 - Escape for pausing the game or closing a menu
 - Right click to place Blocks
 - Left click to break Blocks
+
+# How to play?
+Please open the executable in the src folder.
