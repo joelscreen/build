@@ -8,7 +8,7 @@ Version: Build alpha-0.0.1
 ## Overview
 Genre: RPG / Survival / Action
 
-Platform: PC (will support mobile in the future)
+Platform: PC 
 
 ## Game Loop
 The main idea of the game is to collect coins by clicking on a button in a 3D space, and then use those coins to buy tools, armour, upgrades, building materials, weapons, and access to other dimensions.
