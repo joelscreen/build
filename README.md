@@ -30,4 +30,4 @@ After grinding for coins, the player would choose to either build things, fight 
 - Left click to break Blocks
 
 # How to play?
-Please open the executable in the src folder.
+Please open the executable in the src folder. Do not remove or rearrange any files. Please visit https://github.com/joelscreen/build-source for the full source code
