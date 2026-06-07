@@ -1,6 +1,6 @@
 # Build
 ## Concept
-A 3D RPG similar to cookie clicker with building and fighting aspects.
+A 3D RPG based on clicking with building and fighting aspects.
 
 ## Latest Version
 Version: Build alpha-0.0.3-test-2
