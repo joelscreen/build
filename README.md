@@ -38,7 +38,7 @@ After grinding for coins, the player would choose to either build things, fight 
 - You will find the game as "build_alpha.exe". Open it and play.
 ---
 
-Source repository:- https://github.com/joelscreen/build-source
+*Source repository:- https://github.com/joelscreen/build-source*
 
 *Template by https://github.com/jensroth-git/r3dStarter*
 
