@@ -31,25 +31,15 @@ After grinding for coins, the player would choose to either build things, fight 
 - Right click to place Blocks
 - Left click to break Blocks
 
-## How to compile?
-### In order to compile build, you need:-
-- Raylib - https://github.com/raysan5/raylib
-- R3D - https://github.com/Bigfoot71/r3d
-- CMake - https://cmake.org/download
-- C++ compilor of your choice
-- Editor of your choice
-
-### After you have everything ready, run these commands in terminal
-```bash
-mkdir build
-cd build
-cmake -S .. -B .
-cmake --build .
-```
-
-After that, run the executable in the build folder
-
+## How to Play?
+- Click on Code > Download Zip
+- Extract the zip from your downloads folder
+- Open the "src" folder
+- You will find the game as "build_alpha.exe". Open it and play.
 ---
+
+Source repository:- https://github.com/joelscreen/build-source
+
 *Template by https://github.com/jensroth-git/r3dStarter*
 
 *Copyright © 2026 Joel Mendonca*
