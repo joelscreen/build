@@ -23,6 +23,7 @@ After grinding for coins, the player would choose to either build things, fight 
 - Buying the double clicker and auto clicker
 - Breaking and placing blocks
 - Collision system
+- Fighting mechanics with cooldown
 
 ## Controls
 - WASD for forward, backward, left, and right movement
@@ -30,6 +31,7 @@ After grinding for coins, the player would choose to either build things, fight 
 - Escape for pausing the game or closing a menu
 - Right click to place Blocks
 - Left click to break Blocks
+- Left click on the enemy to hit
 
 ## How to Play?
 - Click on Code > Download Zip
