@@ -3,7 +3,7 @@
 A 3D RPG based on clicking with building and fighting aspects.
 
 ## Latest Version
-Version: Build alpha-0.0.3-test-4
+Version: Build alpha-0.0.3-test-5
 
 ## Overview
 Genre: RPG / Survival / Action
